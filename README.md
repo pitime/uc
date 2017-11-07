@@ -1,4 +1,4 @@
-二、Windows安装Redis
+一、Windows安装Redis
 
 下载地址[Github](https://github.com/MSOpenTech/redis/releases)，这里redis-64.3.0.503版本
 
@@ -27,3 +27,4 @@
 
 ![](/assets/zookeeper02.png)
 
+三、运行chamc-uc-server下的UCApplication
